@@ -1,0 +1,6 @@
+rootProject.name = 'tech-playground'
+include 'playground-domain'
+include 'playground-s3'
+include 'playground-api'
+include 'playground-batch'
+
